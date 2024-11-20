@@ -7,6 +7,4 @@ $my_array = array (
     "Pangolins",
     true
 );
-
-print_r($my_array);
 ?>
