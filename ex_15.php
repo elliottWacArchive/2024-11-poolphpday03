@@ -7,11 +7,11 @@ function student($name) {
     echo "I am a student and my name is " . $name;
 }
 
-function fun_teacher() {
+function func_teacher() {
     teacher();
 }
 
-function fun_student($name) {
+function func_student($name) {
     student($name);
 }
 ?>
