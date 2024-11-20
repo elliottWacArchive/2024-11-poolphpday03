@@ -7,7 +7,7 @@ function spupof($str)
         if ($lowstr[$i] == 'z') {
             $new_str = $new_str . 'a';
         }
-        elseif (($lowstr[$i] >= 'b') && ($lowstr[$i] <= 'z')) {
+        elseif (($lowstr[$i] >= 'a') && ($lowstr[$i] <= 'y')) {
             $char = ord($lowstr[$i]) + 1;
             $new_str = $new_str . chr($char);
         }
