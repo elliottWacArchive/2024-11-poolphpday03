@@ -7,11 +7,6 @@ function student($name) {
     echo "I am a student and my name is " . $name;
 }
 
-function func_teacher() {
-    teacher();
-}
-
-function func_student($name) {
-    student($name);
-}
+$func_teacher = 'teacher';
+$func_students = 'student';
 ?>
