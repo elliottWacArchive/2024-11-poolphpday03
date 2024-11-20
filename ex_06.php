@@ -7,6 +7,4 @@ $my_array = array (
     "string3" => "Pangolins",
     "bool" => true
 );
-
-var_dump($my_array);
 ?>
