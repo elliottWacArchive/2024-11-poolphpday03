@@ -8,5 +8,5 @@ function student($name) {
 }
 
 $func_teacher = 'teacher';
-$func_students = 'student';
+$func_student = 'student';
 ?>
