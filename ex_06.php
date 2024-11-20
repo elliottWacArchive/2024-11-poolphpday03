@@ -7,4 +7,6 @@ $my_array = array (
     "string3" => "Pangolins",
     "bool" => true
 );
+
+print_r($my_array);
 ?>
