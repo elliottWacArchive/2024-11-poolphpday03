@@ -5,6 +5,6 @@ function get_args() {
 
 function get_last_arg() {
     $array = func_get_args();
-    echo end($array);
+    return end($array);
 }
 ?>
